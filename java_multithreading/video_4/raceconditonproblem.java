@@ -39,5 +39,6 @@ class Counter {
 
     void increment(){
         this.count++;
+    
     }
 }
