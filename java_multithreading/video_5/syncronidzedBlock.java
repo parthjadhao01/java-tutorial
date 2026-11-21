@@ -38,6 +38,6 @@ class Test{
     }
 
     public void m3(){
-        System.out.print("m3 process");
+        System.out.print("m3 processed");
     }
 }

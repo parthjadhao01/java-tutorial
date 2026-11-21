@@ -1,5 +1,6 @@
 package video_5;
 
+
 public class customObjectLock {
     public static void main(String[] args) {
         Bank b1 = new Bank();
