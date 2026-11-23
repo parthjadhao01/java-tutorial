@@ -3,6 +3,9 @@ package video_7;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+
+// A simple example of reentrant lock
+// 
 public class reentrantLock {
     public static void main(String[] args) {
         LockExample lex = new LockExample();
