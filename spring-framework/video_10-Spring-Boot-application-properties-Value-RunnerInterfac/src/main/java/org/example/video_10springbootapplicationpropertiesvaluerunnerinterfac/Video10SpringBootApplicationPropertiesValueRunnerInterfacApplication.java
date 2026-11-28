@@ -1,0 +1,23 @@
+package org.example.video_10springbootapplicationpropertiesvaluerunnerinterfac;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ApplicationContext;
+
+@SpringBootApplication
+public class Video10SpringBootApplicationPropertiesValueRunnerInterfacApplication {
+
+	public static void main(String[] args) {
+		ApplicationContext contex = SpringApplication.run(Video10SpringBootApplicationPropertiesValueRunnerInterfacApplication.class, args);
+
+//		PaymentGateway paymentGateway = contex.getBean(PaymentGateway.class);
+
+//		paymentGateway.print();
+
+
+		//		System.out.println(paymentGateway.getType());
+		//		System.out.println(paymentGateway.getRetryCount());
+
+	}
+
+}
